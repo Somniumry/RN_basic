@@ -6,6 +6,7 @@ import TV from '../screens/TV';
 
 const Tab = createBottomTabNavigator();
 
+// 탭 네비게이션 컴포넌트 렌더링
 const Tabs = () => {
     return (
         <Tab.Navigator>
