@@ -7,8 +7,8 @@ import Stacks from './navigation/Stacks';
 const App = () => {
   return (
     <NavigationContainer>
-      {/* <Tabs /> */}
-      <Stacks />
+      <Tabs />
+      {/* <Stacks /> */}
     </NavigationContainer>
   );
 };
